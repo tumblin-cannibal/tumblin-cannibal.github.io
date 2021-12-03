@@ -1,0 +1,114 @@
+name: English
+
+title:
+  archive: History
+  category: Category
+  tag: Tag
+  schedule: Schedule
+
+menu:
+  home: Home
+  archives: History
+  categories: Categories
+  tags: Tags
+  about: About
+  search: Search
+  schedule: Schedule
+  sitemap: Sitemap
+  commonweal: Commonweal 404
+  library: Library
+
+sidebar:
+  overview: Overview
+  toc: Table of Contents
+
+post:
+  posted: Posted on
+  edited: Edited on
+  created: Created
+  modified: Modified
+  edit: Edit this post
+  in: In
+  read_more: Read More
+  untitled: Untitled
+  sticky: Sticky
+  views: Views
+  related_posts: Related Posts
+  copyright:
+    author: Author
+    link: Post link
+    post_author: Written by
+    post_link: This article originally appeared on
+    license_title: Copyright Notice
+    license_content: "All articles in this blog are licensed under %s unless stated otherwise."
+
+footer:
+  powered: "Powered by %s"
+  total_views: Total Views
+  total_visitors: Total Visitors
+
+counter:
+  tag_cloud:
+    zero: No tags
+    one: 1 tag
+    other: "%d tags"
+
+  categories:
+    zero: No categories
+    one: 1 category
+    other: "%d categories"
+
+  archive_posts:
+    zero: No posts
+    one: 1 post
+    other: "%d posts"
+
+state:
+  posts: posts
+  tags: tags
+  categories: categories
+
+search:
+  placeholder: Searching...
+  empty: "We didn't find any results for %s"
+  hits_time: "%s results found in %s ms"
+  hits: "%s results found"
+
+cheers:
+  um: Um...
+  ok: OK
+  nice: Nice
+  good: Good
+  great: Great
+  excellent: Excellent
+
+keep_on: Keep on posting.
+
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+
+reward:
+  donate: Donate
+  wechatpay: WeChat Pay
+  alipay: Alipay
+  paypal: PayPal
+  bitcoin: Bitcoin
+
+follow_me:
+  welcome: Welcome to my other publishing channels
+
+accessibility:
+  nav_toggle: Toggle navigation bar
+  prev_page: Previous page
+  next_page: Next page
+  back_to_top: Back to top
+  select_lang: Select language
+
+symbols_count_time:
+  count: Character count
+  count_total: Total character count
+  time: Reading time
+  time_total: Total reading time
+  time_minutes: min
